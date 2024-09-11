@@ -1,6 +1,6 @@
-h2{
+/*h2{
     color: red;
-}
+}*/
 .app-body {
     text-align: center;
     background-color: #282c34;
@@ -63,3 +63,4 @@ h2{
     font-size: 1.25em;
     transition: ease-in-out 0.3s;
   }
+  
